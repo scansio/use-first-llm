@@ -1,1 +1,0 @@
-# This file will serve as our Gemini connection
